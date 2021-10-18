@@ -1,0 +1,25 @@
+dd : 8
+haha : 6
+Saku : 6
+sa : 6
+Saku : 6
+k : 5
+Moi : 2
+Saku : 2
+Moi : 1
+ff : 1
+jj : 1
+Saku : 1
+Test : 1
+Test : 1
+Test : 1
+Test : 1
+f : 0
+l : 0
+haha : 0
+Saku : 0
+Saku : 0
+Test : 0
+Test : 0
+Test : 0
+
